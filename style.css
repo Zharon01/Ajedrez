@@ -10,13 +10,14 @@ body {
 }
 .negro {
     background-color: black;
-    height: 35vh;
+    height: 25vh;
     display: flex;
     justify-content: center;
 }
+
 .blanco {
-    background-color: whitesmoke;
-    height: 35vh;
+    background-color: white;
+    height: 25vh;
     display: flex;
     justify-content: center;
 }
